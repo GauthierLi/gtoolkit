@@ -4,6 +4,6 @@
 ```bash
 cd clock
 mkdir build && cd build 
-qmake ..
+qmake ../main.pro
 make -j8
 ```
